@@ -1,12 +1,5 @@
 package ru.mirea.pr6;
 
-import org.junit.Before;
-        import org.junit.Test;
-
-        import java.util.Arrays;
-
-        import static org.junit.Assert.*;
-
 public class test {
 
     private student[] iDNumber;
